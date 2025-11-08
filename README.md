@@ -84,4 +84,5 @@ See [EXTERNAL_API_SETUP.md](./EXTERNAL_API_SETUP.md) for external API setup inst
 ## 📝 License
 
 ISC
+
 # FIDA
